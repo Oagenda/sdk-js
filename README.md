@@ -1,5 +1,7 @@
 OpenAgenda SDK for JavaScript in the browser and Node.js.
 
+**Important**: this repo is an archive. Up-to-date code can be [found here](https://github.com/OpenAgenda/oa-public/tree/main/sdk-js)
+
 ## Summary
 
  - [Installation](#installation)
